@@ -1,2 +1,2 @@
-<b># Profanity_dict</b>
+<center># Profanity_dict</center>
 Python library for filter profanity 
